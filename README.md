@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <!--
-**KusakabeSi/KusakabeSi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KusakabeShi/KusakabeShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KusakabeSi&count_private=true&show_icons=true)](#)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KusakabeSi&layout=compact&hide=C,yacc,M4,Lex,Makefile,Perl,Roff)](#)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KusakabeShi&count_private=true&show_icons=true)](#)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KusakabeShi&layout=compact&hide=C,yacc,M4,Lex,Makefile,Perl,Roff)](#)
 
 #### Donation
 
