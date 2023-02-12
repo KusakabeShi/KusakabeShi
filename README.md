@@ -27,4 +27,4 @@ Feed Me, I'm Hungry!
 Coin|Addr
 --|:--
 bitcoin| [3FeedKskb691QTRfjFujy7L4nCgxney6u5](https://btc.com/3FeedKskb691QTRfjFujy7L4nCgxney6u5)  
-ethereum| [0xfeedbbbbbbbb24fb533d6f2cb46528b73c1f8c7b](https://blockchair.com/ethereum/address/0xfeedbbbbbbbb24fb533d6f2cb46528b73c1f8c7b)
+ethereum/USDT| [0xfeedbbbbbbbb24fb533d6f2cb46528b73c1f8c7b](https://etherscan.io/address/0xfeedbbbbbbbb24fb533d6f2cb46528b73c1f8c7b)
