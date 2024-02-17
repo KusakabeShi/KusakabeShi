@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 #### Donation
 
 富婆 餓餓 飯飯  
-Feed Me, I'm Hungry! 
+Donate me a coffee if you love my projects!
 
 Coin|Addr
 --|:--
